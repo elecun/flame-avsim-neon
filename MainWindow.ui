@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>264</width>
-    <height>422</height>
+    <width>341</width>
+    <height>416</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="btn_record_start">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>240</y>
+      <x>100</x>
+      <y>260</y>
       <width>111</width>
       <height>101</height>
      </rect>
@@ -34,8 +34,8 @@
    <widget class="QPushButton" name="btn_record_stop">
     <property name="geometry">
      <rect>
-      <x>140</x>
-      <y>240</y>
+      <x>220</x>
+      <y>260</y>
       <width>111</width>
       <height>101</height>
      </rect>
@@ -53,8 +53,8 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>241</width>
-      <height>201</height>
+      <width>321</width>
+      <height>211</height>
      </rect>
     </property>
     <property name="title">
@@ -63,9 +63,9 @@
     <widget class="QLabel" name="label_ip">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>20</y>
-       <width>91</width>
+       <x>40</x>
+       <y>30</y>
+       <width>121</width>
        <height>20</height>
       </rect>
      </property>
@@ -79,9 +79,9 @@
     <widget class="QLabel" name="label_name">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>50</y>
-       <width>91</width>
+       <x>40</x>
+       <y>60</y>
+       <width>121</width>
        <height>20</height>
       </rect>
      </property>
@@ -95,10 +95,10 @@
     <widget class="QLabel" name="label_battery_level">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>80</y>
-       <width>91</width>
-       <height>16</height>
+       <x>40</x>
+       <y>90</y>
+       <width>121</width>
+       <height>20</height>
       </rect>
      </property>
      <property name="text">
@@ -111,10 +111,10 @@
     <widget class="QLabel" name="label_free_storage">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>140</y>
-       <width>91</width>
-       <height>16</height>
+       <x>40</x>
+       <y>150</y>
+       <width>121</width>
+       <height>20</height>
       </rect>
      </property>
      <property name="text">
@@ -127,9 +127,9 @@
     <widget class="QLabel" name="label_battery_state">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>110</y>
-       <width>91</width>
+       <x>40</x>
+       <y>120</y>
+       <width>121</width>
        <height>20</height>
       </rect>
      </property>
@@ -143,10 +143,10 @@
     <widget class="QLabel" name="label_storage_level">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>170</y>
-       <width>101</width>
-       <height>16</height>
+       <x>40</x>
+       <y>180</y>
+       <width>121</width>
+       <height>20</height>
       </rect>
      </property>
      <property name="text">
@@ -159,8 +159,8 @@
     <widget class="QLabel" name="label_ip_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>22</y>
+       <x>170</x>
+       <y>30</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -172,8 +172,8 @@
     <widget class="QLabel" name="label_name_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>52</y>
+       <x>170</x>
+       <y>60</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -185,8 +185,8 @@
     <widget class="QLabel" name="label_battery_level_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>80</y>
+       <x>170</x>
+       <y>90</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -198,8 +198,8 @@
     <widget class="QLabel" name="label_battery_state_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>110</y>
+       <x>170</x>
+       <y>120</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -211,8 +211,8 @@
     <widget class="QLabel" name="label_free_storage_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>140</y>
+       <x>170</x>
+       <y>150</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -224,8 +224,8 @@
     <widget class="QLabel" name="label_storage_level_text">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>170</y>
+       <x>170</x>
+       <y>180</y>
        <width>111</width>
        <height>16</height>
       </rect>
@@ -238,8 +238,8 @@
    <widget class="QPushButton" name="btn_update">
     <property name="geometry">
      <rect>
-      <x>150</x>
-      <y>200</y>
+      <x>230</x>
+      <y>220</y>
       <width>100</width>
       <height>32</height>
      </rect>
@@ -254,8 +254,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>264</width>
-     <height>43</height>
+     <width>341</width>
+     <height>23</height>
     </rect>
    </property>
   </widget>
